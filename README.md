@@ -2,7 +2,6 @@
 
 A project by Cyfrin to better understand DeFi Stablecoins.
 
-<br>
 
 # About
 
