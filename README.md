@@ -15,7 +15,6 @@ This project is meant to allow users to deposit Ethereum and Bitcoin as collater
     - [Other Networks](#other-networks)
 - [Difference Between Course Code](#difference-between-course-code)
 
-<br>
 
 # Quickstart
 ```
@@ -23,7 +22,6 @@ git clone https://github.com/Chcrf/Cyfrin-DeFi-Stablecoin.git
 cd Cyfrin-foundry-defi-stablecoin
 forge build
 ```
-<br>
 
 # Usage
 ## Locally
@@ -36,7 +34,6 @@ make anvil
 ```
 make deploy
 ```
-<br>
 
 ## Other Networks
 1. Setup environment variables
@@ -49,7 +46,6 @@ ETHERSCAN_API_KEY=<FILL_IN>
 ```
 make deploy ARGS="--network sepolia"
 ```
-<br>
 
 # Difference Between Course Code
 - Implemented my own test cases
