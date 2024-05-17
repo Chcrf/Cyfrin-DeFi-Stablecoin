@@ -35,7 +35,7 @@ make deploy
 ```
 
 ## Other Networks
-1. Setup environment variables
+1. Setup environment variables within a .env file
 ```
 SEPOLIA_RPC_URL=<FILL_IN>
 PRIVATE_KEY=<FILL_IN>
